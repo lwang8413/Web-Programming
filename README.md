@@ -1,2 +1,4 @@
 # hello-world
-Store ideas and resources
+Store ideas and resources.
+
+Used to learn GitHub
